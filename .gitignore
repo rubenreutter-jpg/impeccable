@@ -1,5 +1,7 @@
 # Dependencies
 node_modules/
+__pycache__/
+*.pyc
 
 # npm lockfile (project uses bun.lock; npm may regenerate this as a side
 # effect of npm subprocesses, but it should not be tracked)
